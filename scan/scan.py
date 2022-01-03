@@ -16,13 +16,13 @@ import datetime
 
 ap = arg.ArgumentParser()
 ap.add_argument("-mlt", "--multiple", type = bool, default = False,
-                help = "Multiple scan mode, by default False, with you want more than one scan, pass True.")
+                help = "Multiple scan mode, by default False, with you want more than one page, pass True.")
 ap.add_argument("-m", "--mode", type = str, default="c",
-                help = "Mode of the scan, by default color (c). Options black and white (bw) or both (cbw)")
+                help = "Color mode of the scan, by default color (c). Options black and white (bw) or both (cbw)")
 ap.add_argument("-s", "--save", type = str, default = "pdf",
-                help = "Save mode, by default pdf. You can pass jpg or b to save your with both formats")
+                help = "Save mode, by default pdf. You can pass jpg or b if you want both formats")
 ap.add_argument("-op", "--one_pdf",type = bool,  default = True,
-                 help = "One pdf by default True. Must be passed when using multiple scan and pdf save mode. If False, each scanned image will be saved in a different pdf.")
+                 help = "One pdf file by default True. Must be passed when using multiple scan and pdf save mode. If False, each scanned image will be saved in a different pdf file.")
 
 args = vars(ap.parse_args())
  #grabing date and hour to create a new folder
