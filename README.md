@@ -1,6 +1,6 @@
 # Scanner with Python and OpenCV
 
-Practical scanner with python and OpenCV. Following the source code by [PyImageSearch](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/), this repository presents a practical scan engine.
+Practical scanner with Python and OpenCV. Following the source code by [PyImageSearch](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/).
 
 ## About the Scanner
 
@@ -104,6 +104,10 @@ One limitation of this approach is the need of good input image. As we consider 
 
 ## Results
 
-You can see some of examples in this [folder](https://github.com/IgorMeloS/OpenCV_Scanner/tree/main/scan/scan_31_12_2021_13:04:13).
+Some examples, a color image and black and white.
+
+<img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_1.jpg
+" width="450"> <img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_bw_1.jpg" width="450">
+
 
 **Feel free to make suggestions, critics and new ideas**.
