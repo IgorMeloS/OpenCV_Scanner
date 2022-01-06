@@ -106,8 +106,7 @@ One limitation of this approach is the need of good input image. As we consider 
 
 Some examples, a color image and black and white.
 
-<img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_1.jpg
-" width="450"> <img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_bw_1.jpg" width="450">
+<img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_1.jpg" width="450"> <img src="https://github.com/IgorMeloS/OpenCV_Scanner/blob/main/scan/scan_31_12_2021_13:04:13/scan_bw_1.jpg" width="450">
 
 
 **Feel free to make suggestions, critics and new ideas**.
